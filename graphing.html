@@ -1,0 +1,34 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+	<title>Graphing</title>
+
+	<script type="text/javascript" src="lib/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="lib/utils.js"></script>
+	<script type="text/javascript" src="lib/raph.js"></script>
+	<script type="text/javascript" src="graphScript.js"></script>
+
+<html>
+<body>
+	<canvas id="canvas" width="800"  height="600" style="border: 1 solid black">
+		If you see this, your browser doesn't support HTML5 canvas elements!
+	</canvas>
+	<div class="pickers">
+			<form id="pickers">
+				<input type="radio" name="impEx" checked = "true" value="export">Exports
+				<input type="radio" name="impEx" value="import">Imports</br>
+			</form>
+		</div>
+	<div>
+	<input id="slider" type="range" min="1993" max="2013" step="1" value = "1993" />
+</div>
+</body>
+</html>
+<style>
+input[type=range] {
+    -webkit-appearance: none;
+    background-color: #99CCFF;
+    width: 800px;
+    height:20px;
+}
+</style>

@@ -1,0 +1,386 @@
+{
+	"country" : "Mexico",
+	"exports" : [
+		{"1993" : [
+			{"total": 51886},
+			{"country": "United States", "amount" : 82.75},
+			{"country": "Canada", "amount" : 3.01},
+			{"country": "Spain", "amount" : 1.69},
+			{"country": "Japan", "amount" : 1.36},
+			{"country": "France", "amount" : 0.86}
+			]
+		},
+		{"1994" : [
+			{"total": 60619},
+			{"country": "United States", "amount" : 84.46},
+			{"country": "Canada", "amount" : 2.53},
+			{"country": "Japan", "amount" : 1.52},
+			{"country": "Spain", "amount" : 1.43},
+			{"country": "France", "amount" : 0.70}
+			]
+		},
+		{"1995" : [
+			{"total": 79541},
+			{"country": "United States", "amount" : 83.40},
+			{"country": "Canada", "amount" : 2.50},
+			{"country": "Japan", "amount" : 1.23},
+			{"country": "Brazil", "amount" : 1.01},
+			{"country": "Spain", "amount" : 0.99}
+			]
+		},
+		{"1996" : [
+			{"total": 95661},
+			{"country": "United States", "amount" : 83.39},
+			{"country": "Canada", "amount" : 2.33},
+			{"country": "Japan", "amount" : 1.30},
+			{"country": "Brazil", "amount" : 1.02},
+			{"country": "Spain", "amount" : 1.00}
+			]
+		},
+		{"1997" : [
+			{"total": 110047},
+			{"country": "United States", "amount" : 84.53},
+			{"country": "Canada", "amount" : 2.09},
+			{"country": "Japan", "amount" : 0.92},
+			{"country": "Chile", "amount" : 0.88},
+			{"country": "Spain", "amount" : 0.86}
+			]
+		},
+		{"1998" : [
+			{"total": 117325},
+			{"country": "United States", "amount" : 86.88},
+			{"country": "Canada", "amount" : 1.46},
+			{"country": "Germany", "amount" : 0.95},
+			{"country": "Brazil", "amount" : 0.63},
+			{"country": "Chile", "amount" : 0.62}
+			]
+		},
+		{"1999" : [
+			{"total": 136263},
+			{"country": "United States", "amount" : 88.40},
+			{"country": "Canada", "amount" : 1.75},
+			{"country": "Germany", "amount" : 1.53},
+			{"country": "Spain", "amount" : 0.60},
+			{"country": "Japan", "amount" : 0.57}
+			]
+		},
+		{"2000" : [
+			{"total": 166294},
+			{"country": "United States", "amount" : 88.16},
+			{"country": "Canada", "amount" : 2.15},
+			{"country": "Spain", "amount" : 0.93},
+			{"country": "Germany", "amount" : 0.93},
+			{"country": "Japan", "amount" : 0.67}
+			]
+		},
+		{"2001" : [
+			{"total": 158386},
+			{"country": "United States", "amount" : 86.10},
+			{"country": "Canada", "amount" : 2.05},
+			{"country": "Unspecified", "amount" : 1.73},
+			{"country": "Germany", "amount" : 0.95},
+			{"country": "Spain", "amount" : 0.82}
+			]
+		},
+		{"2002" : [
+			{"total": 160751},
+			{"country": "United States", "amount" : 85.82},
+			{"country": "Unspecified", "amount" : 2.42},
+			{"country": "Canada", "amount" : 1.87},
+			{"country": "Spain", "amount" : 0.90},
+			{"country": "Japan", "amount" : 0.74}
+			]
+		},
+		{"2003" : [
+			{"total": 164907},
+			{"country": "United States", "amount" : 87.74},
+			{"country": "Canada", "amount" : 1.83},
+			{"country": "Germany", "amount" : 1.04},
+			{"country": "Spain", "amount" : 0.89},
+			{"country": "Japan", "amount" : 0.71}
+			]
+		},
+		{"2004" : [
+			{"total": 187980},
+			{"country": "United States", "amount" : 88.59},
+			{"country": "Canada", "amount" : 1.48},
+			{"country": "Spain", "amount" : 1.04},
+			{"country": "Germany", "amount" : 1.02},
+			{"country": "Aruba", "amount" : 0.74}
+			]
+		},
+		{"2005" : [
+			{"total": 214207},
+			{"country": "United States", "amount" : 85.82},
+			{"country": "Canada", "amount" : 1.98},
+			{"country": "Spain", "amount" : 1.38},
+			{"country": "Germany", "amount" : 1.07},
+			{"country": "Colombia", "amount" : 0.72}
+			]
+		},
+		{"2006" : [
+			{"total": 249961},
+			{"country": "United States", "amount" : 84.87},
+			{"country": "Canada", "amount" : 2.07},
+			{"country": "Spain", "amount" : 1.31},
+			{"country": "Germany", "amount" : 1.19},
+			{"country": "Colombia", "amount" : 0.85}
+			]
+		},
+		{"2007" : [
+			{"total": 271821},
+			{"country": "United States", "amount" : 82.18},
+			{"country": "Canada", "amount" : 2.38},
+			{"country": "Germany", "amount" : 1.51},
+			{"country": "Spain", "amount" : 1.36},
+			{"country": "Colombia", "amount" : 1.08}
+			]
+		},
+		{"2008" : [
+			{"total": 291265},
+			{"country": "United States", "amount" : 80.27},
+			{"country": "Canada", "amount" : 2.43},
+			{"country": "Germany", "amount" : 1.72},
+			{"country": "Spain", "amount" : 1.54},
+			{"country": "Brazil", "amount" : 1.16}
+			]
+		},
+		{"2009" : [
+			{"total": 229712},
+			{"country": "United States", "amount" : 80.73},
+			{"country": "Canada", "amount" : 3.59},
+			{"country": "Germany", "amount" : 1.39},
+			{"country": "Spain", "amount" : 1.09},
+			{"country": "Colombia", "amount" : 1.08}
+			]
+		},
+		{"2010" : [
+			{"total": 298305},
+			{"country": "United States", "amount" : 80.07},
+			{"country": "Canada", "amount" : 3.57},
+			{"country": "China", "amount" : 1.41},
+			{"country": "Spain", "amount" : 1.28},
+			{"country": "Brazil", "amount" : 1.27}
+			]
+		},
+		{"2011" : [
+			{"total": 349569},
+			{"country": "United States", "amount" : 78.67},
+			{"country": "Canada", "amount" : 3.05},
+			{"country": "China", "amount" : 1.71},
+			{"country": "Colombia", "amount" : 1.61},
+			{"country": "Spain", "amount" : 1.40}
+			]
+		},
+		{"2012" : [
+			{"total": 370643},
+			{"country": "United States", "amount" : 77.75},
+			{"country": "Canada", "amount" : 2.95},
+			{"country": "Spain", "amount" : 1.90},
+			{"country": "Japan", "amount" : 1.54},
+			{"country": "Brazil", "amount" : 1.53}
+			]
+		},
+		{"2013" : [
+			{"total": 380123},
+			{"country": "United States", "amount" : 78.90},
+			{"country": "Canada", "amount" : 2.74},
+			{"country": "Spain", "amount" : 1.89},
+			{"country": "China", "amount" : 1.70},
+			{"country": "Brazil", "amount" : 1.42}
+			]
+		}
+	]	,
+"imports" : [
+		{"1993" : [
+			{"total": 65272},
+			{"country": "United States", "amount" : 74.03},
+			{"country": "Japan", "amount" : 4.68},
+			{"country": "Germany", "amount" : 4.06},
+			{"country": "Spain", "amount" : 1.80},
+			{"country": "Brazil", "amount" : 1.65}
+			]
+		},
+		{"1994" : [
+			{"total": 79335},
+			{"country": "United States", "amount" : 69.09},
+			{"country": "Japan", "amount" : 6.02},
+			{"country": "Germany", "amount" : 3.91},
+			{"country": "Canada", "amount" : 2.04},
+			{"country": "France", "amount" : 1.92}
+			]
+		},
+		{"1995" : [
+			{"total": 72453},
+			{"country": "United States", "amount" : 74.49},
+			{"country": "Japan", "amount" : 5.45},
+			{"country": "Germany", "amount" : 3.71},
+			{"country": "Canada", "amount" : 1.90},
+			{"country": "France", "amount" : 1.35}
+			]
+		},
+		{"1996" : [
+			{"total": 89355},
+			{"country": "United States", "amount" : 75.67},
+			{"country": "Japan", "amount" : 4.29},
+			{"country": "Germany", "amount" : 3.55},
+			{"country": "Canada", "amount" : 1.95},
+			{"country": "Korea", "amount" : 1.19}
+			]
+		},
+		{"1997" : [
+			{"total": 111983},
+			{"country": "United States", "amount" : 74.31},
+			{"country": "Japan", "amount" : 3.99},
+			{"country": "Germany", "amount" : 3.57},
+			{"country": "Canada", "amount" : 1.80},
+			{"country": "Korea", "amount" : 1.47}
+			]
+		},
+		{"1998" : [
+			{"total": 125324},
+			{"country": "United States", "amount" : 74.45},
+			{"country": "Germany", "amount" : 3.62},
+			{"country": "Japan", "amount" : 3.62},
+			{"country": "Canada", "amount" : 1.80},
+			{"country": "Korea", "amount" : 1.45}
+			]
+		},
+		{"1999" : [
+			{"total": 141956},
+			{"country": "United States", "amount" : 74.23},
+			{"country": "Japan", "amount" : 3.58},
+			{"country": "Germany", "amount" : 3.54},
+			{"country": "Canada", "amount" : 2.08},
+			{"country": "Korea", "amount" : 1.96}
+			]
+		},
+		{"2000" : [
+			{"total": 179404},
+			{"country": "United States", "amount" : 71.17},
+			{"country": "Japan", "amount" : 3.60},
+			{"country": "Germany", "amount" : 3.12},
+			{"country": "Unspecified", "amount" : 3.00},
+			{"country": "Canada", "amount" : 2.24}
+			]
+		},
+		{"2001" : [
+			{"total": 168377},
+			{"country": "United States", "amount" : 67.74},
+			{"country": "Japan", "amount" : 4.80},
+			{"country": "Germany", "amount" : 3.61},
+			{"country": "Canada", "amount" : 2.51},
+			{"country": "China", "amount" : 2.39}
+			]
+		},
+		{"2002" : [
+			{"total": 168651},
+			{"country": "United States", "amount" : 63.39},
+			{"country": "Japan", "amount" : 5.54},
+			{"country": "China", "amount" : 3.72},
+			{"country": "Germany", "amount" : 3.60},
+			{"country": "Canada", "amount" : 2.66}
+			]
+		},
+		{"2003" : [
+			{"total": 170546},
+			{"country": "United States", "amount" : 61.99},
+			{"country": "China", "amount" : 5.51},
+			{"country": "Japan", "amount" : 4.45},
+			{"country": "Germany", "amount" : 3.65},
+			{"country": "Canada", "amount" : 2.42}
+			]
+		},
+		{"2004" : [
+			{"total": 196808},
+			{"country": "United States", "amount" : 56.53},
+			{"country": "China", "amount" : 7.30},
+			{"country": "Japan", "amount" : 5.38},
+			{"country": "Germany", "amount" : 3.63},
+			{"country": "Canada", "amount" : 2.71}
+			]
+		},
+		{"2005" : [
+			{"total": 221819},
+			{"country": "United States", "amount" : 53.64},
+			{"country": "China", "amount" : 7.98},
+			{"country": "Japan", "amount" : 5.90},
+			{"country": "Germany", "amount" : 3.91},
+			{"country": "Korea", "amount" : 2.93}
+			]
+		},
+		{"2006" : [
+			{"total": 256086},
+			{"country": "United States", "amount" : 51.08},
+			{"country": "China", "amount" : 9.54},
+			{"country": "Japan", "amount" : 5.97},
+			{"country": "Korea", "amount" : 4.15},
+			{"country": "Germany", "amount" : 3.69}
+			]
+		},
+		{"2007" : [
+			{"total": 281927},
+			{"country": "United States", "amount" : 49.63},
+			{"country": "China", "amount" : 10.55},
+			{"country": "Japan", "amount" : 5.80},
+			{"country": "Korea", "amount" : 4.47},
+			{"country": "Germany", "amount" : 3.79}
+			]
+		},
+		{"2008" : [
+			{"total": 308583},
+			{"country": "United States", "amount" : 49.18},
+			{"country": "China", "amount" : 11.24},
+			{"country": "Japan", "amount" : 5.28},
+			{"country": "Korea", "amount" : 4.38},
+			{"country": "Germany", "amount" : 4.09}
+			]
+		},
+		{"2009" : [
+			{"total": 234385},
+			{"country": "United States", "amount" : 48.12},
+			{"country": "China", "amount" : 13.88},
+			{"country": "Japan", "amount" : 4.86},
+			{"country": "Korea", "amount" : 4.67},
+			{"country": "Germany", "amount" : 4.15}
+			]
+		},
+		{"2010" : [
+			{"total": 301482},
+			{"country": "United States", "amount" : 48.25},
+			{"country": "China", "amount" : 15.13},
+			{"country": "Japan", "amount" : 4.98},
+			{"country": "Korea", "amount" : 4.22},
+			{"country": "Germany", "amount" : 3.67}
+			]
+		},
+		{"2011" : [
+			{"total": 350842},
+			{"country": "United States", "amount" : 49.85},
+			{"country": "China", "amount" : 14.89},
+			{"country": "Japan", "amount" : 4.70},
+			{"country": "Korea", "amount" : 3.89},
+			{"country": "Germany", "amount" : 3.67}
+			]
+		},
+		{"2012" : [
+			{"total": 370751},
+			{"country": "United States", "amount" : 50.08},
+			{"country": "China", "amount" : 15.36},
+			{"country": "Japan", "amount" : 4.67},
+			{"country": "Germany", "amount" : 3.64},
+			{"country": "Korea", "amount" : 3.60}
+			]
+		},
+		{"2013" : [
+			{"total": 381210},
+			{"country": "United States", "amount" : 49.25},
+			{"country": "China", "amount" : 16.09},
+			{"country": "Japan", "amount" : 4.48},
+			{"country": "Korea", "amount" : 3.54},
+			{"country": "Germany", "amount" : 3.53}
+			]
+		}
+	]	
+}
+	
